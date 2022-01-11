@@ -1,10 +1,6 @@
 {
     "Name": "High-order areas and auditory cortex both represent the high-level event structure of music",
-    "Authors": [
-        "Williams, J.",
-        "Hasson, U.",
-        "Norman, K.A."
-    ],
+    "Authors": [],
     "BIDSVersion": "1.2.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds004007.v1.0.1",
     "License": "CC0"
